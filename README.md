@@ -1,2 +1,2 @@
 # Problem_solving_by_developers
-Enhancing problem solving skill
+Categorize problems by comany name here
